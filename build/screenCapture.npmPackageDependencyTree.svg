@@ -45,7 +45,7 @@
 <tspan x="10" y="682">  │ ├─┬ htmlparser2@3.9.2 </tspan>
 <tspan x="10" y="698">  │ │ ├── domelementtype@1.3.0 </tspan>
 <tspan x="10" y="714">  │ │ ├── domhandler@2.3.0 </tspan>
-<tspan x="10" y="730">  │ │ └─┬ readable-stream@2.2.8 </tspan>
+<tspan x="10" y="730">  │ │ └─┬ readable-stream@2.2.9 </tspan>
 <tspan x="10" y="746">  │ │   ├── buffer-shims@1.0.0 </tspan>
 <tspan x="10" y="762">  │ │   ├── core-util-is@1.0.2 </tspan>
 <tspan x="10" y="778">  │ │   ├── isarray@1.0.0 </tspan>
