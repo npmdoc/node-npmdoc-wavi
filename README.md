@@ -1,9 +1,14 @@
-# api documentation for  [wavi (v2.1.3)](https://github.com/bakunin95/wavi#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wavi.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wavi) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wavi.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wavi)
+# npmdoc-wavi
+
+#### api documentation for  [wavi (v2.1.3)](https://github.com/bakunin95/wavi#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wavi.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wavi) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wavi.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wavi)
+
 #### Generate a class diagram for node.js web application inspired by the Web Application Extension (WAE) for UML. Document your application with wavi.
 
-[![NPM](https://nodei.co/npm/wavi.png?downloads=true)](https://www.npmjs.com/package/wavi)
+[![NPM](https://nodei.co/npm/wavi.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/wavi)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-wavi/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-wavi_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-wavi/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-wavi/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-wavi/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-wavi/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-wavi/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-wavi/build/screenCapture.npmPackageListing.svg)
 
@@ -69,13 +74,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "bakunin95",
-            "email": "jugle66@hotmail.com"
+            "name": "bakunin95"
         }
     ],
     "name": "wavi",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/bakunin95/wavi.git"
@@ -90,16 +93,6 @@
     "version": "2.1.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module wavi](#apidoc.module.wavi)
-
-
-
-# <a name="apidoc.module.wavi"></a>[module wavi](#apidoc.module.wavi)
 
 
 
