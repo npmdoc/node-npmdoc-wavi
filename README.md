@@ -1,6 +1,6 @@
 # npmdoc-wavi
 
-#### api documentation for  [wavi (v2.1.3)](https://github.com/bakunin95/wavi#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wavi.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wavi) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wavi.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wavi)
+#### basic api documentation for  [wavi (v2.1.3)](https://github.com/bakunin95/wavi#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wavi.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wavi) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wavi.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wavi)
 
 #### Generate a class diagram for node.js web application inspired by the Web Application Extension (WAE) for UML. Document your application with wavi.
 
